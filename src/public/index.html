@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta author="MINDLUNNY">
+    <title>Form [sending e-mail]</title>
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="../../node_modules/bootstrap/scss/bootstrap.scss" type="style/css">
+    <link rel="stylesheet" href="/bootstrap.min.css">
+</head>
+<body>
+    <div class="container text-center p-4">
+        <h1>Form [sending e-mail]</h1>
+    </div>
+    <div class="container p-4">
+        <div class="col-md-6 offset-md-3">
+            <div class="card">
+                <div class="card-body">
+                    <form action="/emailing" method="POST">
+                        <div class="form-group p-3">
+                            <input type="text" name="name" class="form-control" placeholder="Fullname" autofocus>
+                        </div>
+                        <div class="form-group p-3">
+                            <input type="text" name="email" placeholder="E-mail" class="form-control">
+                        </div>
+                        <div class="form-group p-3">
+                            <input type="text" name="phone" placeholder="N° phone" class="form-control">
+                        </div>
+                        <div class="form-group p-3">
+                            <textarea name="msg" rows="2" class="form-control" placeholder="Type your message" style="max-height: 80px; min-height: 60px;"></textarea>
+                        </div>
+                        <div class="d-grid gap-2 p-5">
+                            <button class="btn btn-primary btn-block">Send</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
