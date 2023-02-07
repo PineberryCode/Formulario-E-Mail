@@ -1,2 +1,2 @@
 # Formulario-E-Mail
-- ✉️  Just a form for send an e-mail.
+- Just a form for send an e-mail.
