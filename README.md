@@ -1,6 +1,6 @@
 # Formulario-E-Mail
 ## What is it about?
-###### A form was created with Node JS, whose function is to send a message to another user, specifically to an e-mail account 📨.
+##### A form was created with Node JS, whose function is to send a message to another user, specifically to an e-mail account 📨.
 ### Dependencies
 - bootstrap 5.3.0
 - express 4.18.2
