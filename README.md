@@ -12,4 +12,4 @@
 [![Captura-Form-01.png](https://i.postimg.cc/8PNDk2nH/Captura-Form-01.png)](https://postimg.cc/0rWhcBvM)
 ### Overview success.html
 [![Captura-Form-02.png](https://i.postimg.cc/mgK5kMgs/Captura-Form-02.png)](https://postimg.cc/Xrc8Dr5H)
-###### Note: Enable the two steps verification and create a application password. Can do it in your Google Account.
+###### Note: Enable the two steps verification and create an application password. Can do it in your Google Account.
